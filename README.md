@@ -19,5 +19,9 @@
 -   Kódolás
 -   Modellek beimportálása
 -   Tesztelés
-
+-
+- Cisco, hálózati ismeretek: (oklevél, bizonyítvány)
 ![image](https://github.com/user-attachments/assets/68fe597d-d734-422a-81f9-7e5027584eb1)
+-
+![image](https://github.com/user-attachments/assets/c175b3bd-015d-4fd7-a00f-a06ba52cf2c5)
+
