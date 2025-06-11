@@ -1,4 +1,4 @@
-# Repositoryk, melyeken dolgoztam:
+# Projektek, elvégzett kurzusok:
 
 - [Nasa Space Apps] - (https://github.com/kiralymark/Exoplanets_Nasa_Project)
 -  Kód megírása és a játék létrehozása: Godot Game Engine-ben
