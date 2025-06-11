@@ -19,3 +19,5 @@
 -   Kódolás
 -   Modellek beimportálása
 -   Tesztelés
+
+![image](https://github.com/user-attachments/assets/68fe597d-d734-422a-81f9-7e5027584eb1)
