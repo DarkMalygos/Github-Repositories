@@ -1,4 +1,4 @@
-# Projektek, (önálló és csapat) elvégzett kurzusok:
+# Projektek, (önálló ill. csapat) elvégzett kurzusok:
 
 - [Nasa Space Apps] - (https://github.com/kiralymark/Exoplanets_Nasa_Project)
 -    Kódolás
