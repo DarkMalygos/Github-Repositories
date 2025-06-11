@@ -2,7 +2,7 @@
 
 - [Nasa Space Apps] - (https://github.com/kiralymark/Exoplanets_Nasa_Project)
 -    Kódolás
--    Nyelvek: gdscript
+-    Nyelv: gdscript
 -    Engine: Godot
 -    Projektvezető
 -    Csapatmunka
